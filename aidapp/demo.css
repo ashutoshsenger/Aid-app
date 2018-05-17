@@ -1,0 +1,17 @@
+p {
+    font-size: 18px;
+}
+#form{
+
+	height: 450px;
+	width: 550px;
+	background-color: #D3D3D3;
+	position: relative;
+	
+	top: 90px;
+}
+#header{
+	height: 30px;
+	background-color:blue;
+
+}
